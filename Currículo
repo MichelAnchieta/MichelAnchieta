@@ -1,0 +1,246 @@
+ <head>
+
+        <title>Michel Anchieta |Estudante de Tecnologia | namemichelanchieta@gmail.com</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+
+        <link rel="stylesheet" type="text/css"
+            href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" />
+        <link rel="stylesheet" type="text/css" href="style.css" media="all" />
+
+    </head>
+
+
+
+    <body>
+        <div id="doc2" class="yui-t7">
+            <div id="inner">
+
+                <div id="hd">
+                    <div class="yui-gc">
+                        <div class="yui-u first">
+                            <h1>Michel Anchieta</h1>
+                            <h2></h2>
+                        </div>
+
+                        <div class="yui-u">
+                            <div class="contact-info">
+                                <align-right><image src="https://lh3.googleusercontent.com/a/AEdFTp6v1M5TWUIHCAAT0ZKAEW6jAjQP_gNSoK1ECzLPr8E=s288-p-rw-no"
+                                    widt="50" heigh="50">
+                                    <br>
+                                <h3><a id="pdf" href="index-english.html">Click for English Version</a></h3>
+                                <h3><a href="mailto:michelanchieta@gmail.com">michelanchieta@gmail.com</a></h3>
+                                <h3>+55 (11) 96544-8248</h3>
+                            </div><!--// .contact-info -->
+                        </div>
+                    </div><!--// .yui-gc -->
+                </div><!--// hd -->
+
+                <div id="bd">
+                    <div id="yui-main">
+                        <div class="yui-b">
+
+                            <div class="yui-gf">
+                                <div class="yui-u first">
+                                    <h2>Perfil</h2>
+                                </div>
+                                <div class="yui-u">
+                                    <p class="enlarge">
+                                        Com 30 anos de vida profissional, 22 dedicados à aviação 5 ao turismo e 3 ao empreendedorismo,
+                                        busco novos desafios no universo promissor da tecnologia.
+                                        Casado com a Bianca, temos 3 gatos pretos (Edgar, Virgínia e Annabel).
+                                        Música e leitura fazem parte da minha rotina diária.
+                                        Nos últimos 23 anos tive a oportunidade de conhecer mais de 300 cidades
+                                        em 39 países, fato primordial para o enriquecimento da minha bagagem cultural e intelectual. 
+                                        Estudei Letras Tradutor/Intérprete (inglês) na Unibero e hoje estudo Análise e Desenvolvimento
+                                        de Sistemas no Senac.
+                                        Controle emocional, adaptabilidade e habilidade para trabalhar em grupo são características
+                                        que eu destacaria em minha personalidade.
+                                
+                                  </p>
+                                </div>
+                            </div><!--// .yui-gf -->
+
+                            <div class="yui-gf">
+                                <div class="yui-u first">
+                                    <h2>Habilidades</h2>
+                                </div>
+                                <div class="yui-u">
+
+                                    <div class="talent">
+                                        <h2>Apex/Salesforce</h2>
+                                        <p>Noção Dev Junior em Apex com criacao de Triggers, Classes e Interface unida
+                                            ao Salesforce.</p>
+                                    </div>
+
+                                    <div class="talent">
+                                        <h2>HTML/CSS</h2>
+                                        <p>Nocoes De Construcao de WebSite em HTML com CSS unindo com JavaScript.</p>
+                                    </div>
+
+                                    <div class="talent">
+                                        <h2>Javascript</h2>
+                                        <p>Programação em JavaScript Iniciante.</p>
+                                    </div>
+                                </div>
+                            </div><!--// .yui-gf -->
+
+                            <div class="yui-gf">
+                                <div class="yui-u first">
+                                    <h2>Técnicas</h2>
+                                </div>
+                                <div class="yui-u">
+                                    <ul class="talent">
+                                        <li>XHTML</li>
+                                        <li>CSS</li>
+                                        <li class="last">Javascript</li>
+                                    </ul>
+
+                                    <ul class="talent">
+                                        <li>Jquery</li>
+                                        <li>Apex</li>
+                                        <li class="last">CVS / Subversion</li>
+                                    </ul>
+
+                                    <ul class="talent">
+                                        <li>Framework</li>
+                                        <li>Técnicas</li>
+                                        <li class="last">JavaScript</li>
+                                    </ul>
+                                </div>
+                            </div><!--// .yui-gf-->
+
+                            <div class="yui-gf">
+
+                                <div class="yui-u first">
+                                    <h2>Experiência Profissional</h2>
+                                </div><!--// .yui-u -->
+
+                                <div class="yui-u">
+
+                                    <div class="job">
+                                        <h2>Adega Área 51  / Anchieta Conveniência e Bebidas</h2>
+                                        <br>
+                                        <h3>Proprietário</h3>
+                                        <h4>julho 2019 - maio 2022</h4>
+                                        <p>Gestão admistrativa, gestão de pessoas, controle de estoque,
+                                            contas a pagar, atualização do programa de controle de pragas e análise de comportamento
+                                            do mercado para composição de preços e práticas competitivas .</p>
+                                    </div>
+
+                                    <div class="job">
+                                        <h2>American Airlines Inc.</h2>
+                                        <br>
+                                        <h3>Stock Clerk (2017-2021)</h3>
+                                        <h4>1999-2021</h4>
+                                        <p>Controle de estoque e inventário de peças de
+                                            aeronave, preparar o envio de peças(reparáveis) usadas seguindo os critérios do Manual de
+                                            Produtos Perigosos da IATA e apoio aos mecânicos no preparo das tarefas diárias.</p>
+
+                                        <h3>Agente de Operações (2013-2017)</h3>
+
+                                        <p>Programar as refeições dos voos, reboque de aeronaves, fornecer lista de
+                                            passageiros à autoridade de imigração local, escala de tripulantes e
+                                            qualquer assistência médica em caso de emergência, calcular o peso e
+                                            balanceamento das aeronaves, atualizar a densidade do combustível a cada 3
+                                            horas, atualizar a condição da rampa, fornecer mapas meteorológicos e plano
+                                            de voo para os pilotos.
+                                            Coordenar tarefas da rampa, como água potável, combustível, tanque de
+                                            drenagem de degetos, carregamento de refeições e carregamento de bagagem.
+                                            Criar cursos em língua portuguesa para a equipe terceirizada de rampa.</p>
+                                        <h3>Agente de check-in (2009-2013)</h3>
+
+                                        <p>Atribuir assento, cobrar bagagem com excesso de peso, taxa de alteração de data, taxas extras, como animais de estimação, menores desacompanhados e pranchas de surfe. Reprogramar o itinerário do passageiro em situações de overbooking e coordenar o processo de embarque.</p>
+
+                                        <h3>Agente de Cargas (2004-2009)</h3>
+
+                                        <p>(Setor de Exportação)&nbspPreparar a documentação da carga para a alfândega e planejar seu envio no sistema garantindo a chegada ao destino o mais rápido possível, seguindo os critérios alfandegários e de segurança. Segregar as mercadorias perigosas das remessas regulares e
+                                            calcular cubagem para alocação em contêinter apropriado, utilizando uma logística bastante dinâmica.
+
+                                        </p>
+
+                                        <h3>Agente de Segurança (1999-2004)</h3>
+
+                                        <p>Análise minuciosa documentação para ingresso nos Estados Unidos ou outro destino com a American Airlines, com a finalidade de evitar multas de imigração.
+                                            Seguir um fluxo de procedimentos para detectar suspeita de ato ilícito, documentação fraudulenta ou qualquer tipo de comportamento
+                                            que possa colocar em risco a integridade dos passageiros, funcionários e aeronaves.
+                                        </p>
+
+
+
+                                </div>
+
+                                    
+
+
+                                    
+
+                                </div><!--// .yui-u -->
+                            </div><!--// .yui-gf -->
+
+                            <div class="Treinamentos">
+                                <h2>
+                            
+                                    Treinamentos
+                                    
+                                </h2>
+                                <br>
+                                <ul >
+                                    
+                                    <li>SCEPTRE(Treinamento do sistema de manutenção Sceptre) Fevereiro de 2020 - Miami,&nbspEUA</li>
+                                    <li>ISP(International Security Program update) Junho de 2010 - American Airlines Training Center - Dallas,&nbspEUA</li>
+                                    <li>Passenger Service Core(Treinamento para atendimento a passageiros) - Abril de 2009 - American Airlines Training Center - Dallas,&nbspEUA</li>
+                                    <li>CARE(Treinamento para auxiliar famílias de vítimas em caso de acidente aéreo) Maio de 2005 - American Airlines Training Center - Dallas,&nbspEUA</li>
+                                    <li>International Cargo Security Program. Março de 2004 - American Airlines Training Center  Dallas,&nbspEUA</li>
+                                    <li>Curso de documentação do Consulado Canadense(2002) - Aeroporto de Guarulhos</li>
+                                    <li>Curso de Documentação do Consulado Americano(2000) - Aeroporto de Guarulhos.</li>
+                                    <li>ISP(International Security Program)
+                                        Fevereiro de 1999 - American Airlines Training Center Dallas,&nbspEUA</li>
+                                    
+                                    
+                                  
+                                    
+                                   
+                                    
+                                       
+
+                                </ul>
+                                <br>
+                               
+                            </div>
+
+                            <div class="yui-gf last">
+                                <div class="yui-u first">
+                                    <h2>Histórico Acadêmico</h2>
+                                </div>
+                                <div class="yui-u">
+                                    <h2>Senac - Análise e desenvolvimento de sistemas - 2022(em andamento)</h2>
+                                    <br>
+                                    <h2>Unibero - Letras, Tradutor/Intérprete(2008)</h2>
+                                    <br>
+                                    <h3>Cultura Inglesa - FCE(First Certificate in English)- 2000</h3>
+                                </div>
+                            </div><!--// .yui-gf -->
+
+
+                        </div><!--// .yui-b -->
+                    </div><!--// yui-main -->
+                </div><!--// bd -->
+
+                <div id="ft">
+                    <p>Acesse meu Trailhead<a href="https://trailblazer.me/id/manchieta"></a></p>
+                    <br>
+                    <p>Michel Anchieta 2022 &mdash; <a href="https://trailblazer.me/id/manchieta">https://trailblazer.me/id/manchieta</a> &mdash; +55(11)96544-8248</p>
+                </div><!--// footer -->
+
+            </div><!-- // inner -->
+
+
+        </div><!--// doc -->
+
+
+    </body>
+
+</html>
